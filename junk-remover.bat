@@ -4,7 +4,7 @@
 :A
 cls
 echo.
-echo Welcome, to the java error fixer process...
+echo Welcome, to the junk remover...
 echo.
 set /p menu="Do you want to continue? (Y/N) : "
 if %menu%==Y goto Yes
